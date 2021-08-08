@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
+#Editor=lucas
 import argparse
 import sys
 import os
