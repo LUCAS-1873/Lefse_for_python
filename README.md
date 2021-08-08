@@ -9,7 +9,7 @@ Sklearn==0.23.2
   
 **用法：**  
 
-usage: abundance.py [-h] -s SPTAB -g GROUP [-l LDA_TH] -o OUTPUT  
+usage: lefse_by_Lucas.py [-h] -s SPTAB -g GROUP [-l LDA_TH] -o OUTPUT  
 
 optional arguments:  
   -h, --help            show this help message and exit  
