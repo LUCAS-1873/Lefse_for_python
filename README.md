@@ -22,7 +22,7 @@ optional arguments:
   -o OUTPUT, --output OUTPUT  
                         out_dir  
   
-python lefse.py -s sptab.txt -g group.txt  -o out_dir  
+python lefse_by_Lucas.py -s sptab.txt -g group.txt  -o out_dir  
   
   
 注意：  
