@@ -17,7 +17,7 @@ random.seed(1982)
 parser = argparse.ArgumentParser(prog='abundance.py',
 
     epilog='''
-lefse.py -s sptab.txt -g group.txt  -o out_dir
+python lefse_by_Lucas.py -s sptab.txt -g group.txt  -o out_dir
 ''', formatter_class=argparse.RawDescriptionHelpFormatter)
 
 
