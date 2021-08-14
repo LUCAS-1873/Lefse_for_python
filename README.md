@@ -1,4 +1,5 @@
 # python实现Lefse的脚本
+By: 中南大学 人体与微生物学 赵一鸣
 这是一个可以通过python3版本实现Lefse的python脚本。可以在linux下运行。
 
 Pandas == 1.1.3  
