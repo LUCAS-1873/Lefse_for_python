@@ -1,6 +1,7 @@
 # python实现Lefse的脚本
 By: 中南大学 人体与微生物学 赵一鸣   
 
+
 这是一个可以通过python3版本实现Lefse的python脚本。可以在linux下运行。
 
 Pandas == 1.1.3  
@@ -35,4 +36,5 @@ python lefse_by_Lucas.py -s sptab.txt -g group.txt  -o out_dir
 5. 引用请告知本人谢谢！  
    
 特别感谢中科院地球化学所吴求生在本脚本中做出的调试及贡献！  
-若有任何问题请联系 yimingzhao970904@163.com
+
+若需要使用 或有任何疑问 请联系 yimingzhao970904@163.com 
